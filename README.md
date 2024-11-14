@@ -1,5 +1,5 @@
 ![image](https://github.com/PabloNeri66/Distribui-oDePossion/assets/89610356/bbb16b69-5d12-451f-b4ef-88e71420c749)
-#_Análise de Gols na Premier League 2022/23 com Distribuição de Poisson_#
+#_Análise de Gols na Premier League 2022/23 com Distribuição de Poisson_
 
 
 Descrição do Projeto
