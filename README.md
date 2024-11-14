@@ -26,9 +26,6 @@ Linhas pontilhadas: Distribuição de Poisson para cada caso.
 Interpretação
 A linha de Poisson ajuda a visualizar como a distribuição se ajusta aos dados de gols reais. Observa-se, por exemplo, que existe aproximadamente 31% de chance de uma partida terminar com 1 gol para o time mandante (conforme a linha de Poisson). Esse valor corresponde aos padrões observados no campeonato.
 
-Contribuição
-Contribuições são bem-vindas! Se você quiser melhorar a análise ou adicionar novas funcionalidades, fique à vontade para abrir uma issue ou enviar um pull request.
-
-Licença
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+Créditos: 
+FutPythonTrader (Youtube)
 
